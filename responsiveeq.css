@@ -1,0 +1,507 @@
+@media screen and (max-width: 1200px) {
+  p {
+    font-size: 130%;
+  }
+  h3 {
+    font-size: 150%;
+  }
+  a {
+    font-size: 20px;
+  }
+  header {
+    height: 80px;
+    position: relative;
+  }
+  header #logo {
+    margin: 15px 0 20px -25px;
+  }
+
+  header #gif {
+    display: none;
+  }
+  
+  nav {
+    float: right;
+  }
+
+  nav ul li {
+    padding: 10px;
+    margin-bottom: 30px;
+  }
+
+  
+  .contenido {
+    float: left;
+    width: 100%;
+
+  }
+  .icon {
+    height: 80px;
+    width: 80px;
+    margin-top: 3%;
+  }
+
+  .icon i {
+    font-size: 250%;
+    padding-top: 27%;
+  }
+
+  .text-left {
+    width: 100%;
+    padding: 0;
+  }
+
+  .img-right {
+  display: none;
+  }
+
+  .text-left a {
+    
+    margin-left: 170px;
+    
+  }
+
+  .img-cont {
+    width: 98%;
+    margin: 0;
+    padding: 1%;
+  }
+
+
+  .contacto {
+    width: 100%;
+    padding: 2% 0 0 0;
+    font-size: 80%;
+  }
+
+  .footer-nav {
+    margin: 0 auto;
+    text-align: center;
+    padding: 5%;
+  }
+
+  .footer-nav li {
+    padding: 1%;
+  }
+
+}
+
+@media screen and (max-width: 970px) {
+  p {
+    font-size: 130%;
+  }
+  h3 {
+    font-size: 150%;
+  }
+  a {
+    font-size: 20px;
+  }
+  header {
+    height: 80px;
+    position: relative;
+  }
+  header #logo {
+    margin: 15px 0 20px -25px;
+  }
+
+  header #gif {
+    display: none;
+  }
+
+  nav ul li {
+    padding: 10px;
+    margin-bottom: 30px;
+  }
+
+  
+  .contenido {
+    float: left;
+    width: 100%;
+
+  }
+  .icon {
+    height: 80px;
+    width: 80px;
+    margin-top: 3%;
+  }
+
+  .icon i {
+    font-size: 250%;
+    padding-top: 27%;
+  }
+
+  .text-left {
+    width: 100%;
+    padding: 0;
+  }
+
+  .img-right {
+  display: none;
+  }
+
+  .text-left a {
+    
+    margin-left: 170px;
+    
+  }
+
+  .img-cont {
+    width: 98%;
+    margin: 0;
+    padding: 1%;
+  }
+
+
+  .contacto {
+    width: 100%;
+    padding: 2% 0 0 0;
+    font-size: 80%;
+  }
+
+  .footer-nav {
+    margin: 0 auto;
+    text-align: center;
+    padding: 5%;
+  }
+
+  .footer-nav li {
+    padding: 1%;
+  }
+
+}
+
+@media screen and (max-width: 767px) {
+  p {
+    font-size: 130%;
+  }
+  h3 {
+    font-size: 150%;
+  }
+  a {
+    font-size: 20px;
+  }
+  header {
+    height: 80px;
+    position: relative;
+  }
+  header #logo {
+    margin: 15px 0 20px -25px;
+  }
+
+  header #gif {
+    display: none;
+  }
+
+  nav ul li {
+    padding: 10px;
+    margin-bottom: 30px;
+  }
+
+  
+  .contenido {
+    float: left;
+    width: 100%;
+
+  }
+  .icon {
+    height: 80px;
+    width: 80px;
+    margin-top: 3%;
+  }
+
+  .icon i {
+    font-size: 250%;
+    padding-top: 27%;
+  }
+
+  .text-left {
+    width: 100%;
+    padding: 0;
+  }
+
+  .img-right {
+  display: none;
+  }
+
+  .text-left a {
+    
+    margin-left: 170px;
+    
+  }
+
+  .img-cont {
+    width: 98%;
+    margin: 0;
+    padding: 1%;
+  }
+
+
+  .contacto {
+    width: 100%;
+    padding: 2% 0 0 0;
+    font-size: 80%;
+  }
+
+  .footer-nav {
+    margin: 0 auto;
+    text-align: center;
+    padding: 5%;
+  }
+
+  .footer-nav li {
+    padding: 1%;
+  }
+
+}
+
+@media screen and (max-width: 600px) {
+  p {
+    font-size: 130%;
+  }
+  h3 {
+    font-size: 150%;
+  }
+  a {
+    font-size: 20px;
+  }
+  header {
+    height: 80px;
+    position: relative;
+  }
+  header #logo {
+    margin: 15px 0 20px -25px;
+  }
+
+  header #gif {
+    display: none;
+  }
+
+  nav ul li {
+    padding: 10px;
+    margin-bottom: 30px;
+  }
+
+  
+  .contenido {
+    float: left;
+    width: 100%;
+
+  }
+  .icon {
+    height: 80px;
+    width: 80px;
+    margin-top: 3%;
+  }
+
+  .icon i {
+    font-size: 250%;
+    padding-top: 27%;
+  }
+
+  .text-left {
+    width: 100%;
+    padding: 0;
+  }
+
+  .img-right {
+  display: none;
+  }
+
+  .text-left a {
+    
+    margin-left: 170px;
+    
+  }
+
+  .img-cont {
+    width: 98%;
+    margin: 0;
+    padding: 1%;
+  }
+
+
+  .contacto {
+    width: 100%;
+    padding: 2% 0 0 0;
+    font-size: 80%;
+  }
+
+  .footer-nav {
+    margin: 0 auto;
+    text-align: center;
+    padding: 5%;
+  }
+
+  .footer-nav li {
+    padding: 1%;
+  }
+
+}
+
+@media screen and (max-width: 400px) {
+  p {
+    font-size: 130%;
+  }
+  h3 {
+    font-size: 150%;
+  }
+  a {
+    font-size: 20px;
+  }
+  header {
+    height: 80px;
+    position: relative;
+  }
+  header #logo {
+    margin: 15px 0 20px -25px;
+  }
+
+  header #gif {
+    display: none;
+  }
+
+  nav ul li {
+    padding: 10px;
+    margin-bottom: 30px;
+  }
+
+  
+  .contenido {
+    float: left;
+    width: 100%;
+
+  }
+  .icon {
+    height: 80px;
+    width: 80px;
+    margin-top: 3%;
+  }
+
+  .icon i {
+    font-size: 250%;
+    padding-top: 27%;
+  }
+
+  .text-left {
+    width: 100%;
+    padding: 0;
+  }
+
+  .img-right {
+  display: none;
+  }
+
+  .text-left a {
+    
+    margin-left: 170px;
+    
+  }
+
+  .img-cont {
+    width: 98%;
+    margin: 0;
+    padding: 1%;
+  }
+
+
+  .contacto {
+    width: 100%;
+    padding: 2% 0 0 0;
+    font-size: 80%;
+  }
+
+  .footer-nav {
+    margin: 0 auto;
+    text-align: center;
+    padding: 5%;
+  }
+
+  .footer-nav li {
+    padding: 1%;
+  }
+
+}
+
+@media screen and (max-width: 320px) {
+  p {
+    font-size: 130%;
+  }
+  h3 {
+    font-size: 150%;
+  }
+  a {
+    font-size: 20px;
+  }
+  header {
+    height: 80px;
+    position: relative;
+  }
+  header #logo {
+    margin: 15px 0 20px -25px;
+  }
+
+  header #gif {
+    display: none;
+  }
+
+  nav ul li {
+    padding: 10px;
+    margin-bottom: 30px;
+  }
+
+  
+  .contenido {
+    float: left;
+    width: 100%;
+
+  }
+  .icon {
+    height: 80px;
+    width: 80px;
+    margin-top: 3%;
+  }
+
+  .icon i {
+    font-size: 250%;
+    padding-top: 27%;
+  }
+
+  .text-left {
+    width: 100%;
+    padding: 0;
+  }
+
+  .img-right {
+  display: none;
+  }
+
+  .text-left a {
+    
+    margin-left: 170px;
+    
+  }
+
+  .img-cont {
+    width: 98%;
+    margin: 0;
+    padding: 1%;
+  }
+
+
+  .contacto {
+    width: 100%;
+    padding: 2% 0 0 0;
+    font-size: 80%;
+  }
+
+  .footer-nav {
+    margin: 0 auto;
+    text-align: center;
+    padding: 5%;
+  }
+
+  .footer-nav li {
+    padding: 1%;
+  }
+
+}
